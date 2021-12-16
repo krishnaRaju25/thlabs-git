@@ -7,7 +7,7 @@ pipeline {
             {
             echo "Hello World01"
             echo "welcome"
-                echo "new"
+                echo "new1"
         
         }
         }

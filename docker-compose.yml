@@ -1,0 +1,5 @@
+version: '3.8'
+services:
+  webapp:
+     images: ngnix
+     ports: '8080:8000'

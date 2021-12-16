@@ -15,6 +15,7 @@ pipeline {
          steps{
             echo "Hello World"
             echo " you are welcome"
+            echo "welcome"
         }
         
         }

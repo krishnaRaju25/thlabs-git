@@ -5,8 +5,9 @@ pipeline {
         stage('Initialize') {
             steps
             {
-            echo "Hello World"
+            echo "Hello World01"
             echo "welcome"
+                echo "new"
         
         }
         }

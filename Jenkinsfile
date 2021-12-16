@@ -14,7 +14,7 @@ pipeline {
         stage('Run Test ') {
          steps{
             echo "Hello World"
-          
+            echo " you are welcome"
         }
         
         }
